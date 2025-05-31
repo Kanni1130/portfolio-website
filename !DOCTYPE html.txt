@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nikhil Goli | Mechanical Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Nikhil Goli</h1>
+    <p>Mechanical Engineer | 3D Designer</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Detail-oriented and innovative Mechanical Engineer with some experience in designing and analyzing
+      mechanical systems. Proficient in SOLIDWORKS software, thermodynamics, and manufacturing
+      processes. Passionate about solving complex engineering challenges. Seeking an opportunity to apply
+      my technical skills and innovative mindset in a dynamic engineering environment.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills & Tools</h2>
+    <ul>
+      <li>SolidWorks, ANSYS, CATIA, CAD/CAM, Simulation</li>
+      <li>AI/ML, 3D Printing, Kinematics of Machinery</li>
+    </ul>
+  </section>
+
+  <section id="models">
+    <h2>3D Models</h2>
+    <div class="model">
+      <h3>Metal Crushing Machine</h3>
+      <p>A powerful metal crushing assembly designed for processing scrap materials.</p>
+      <iframe src="https://sketchfab.com/models/placeholder/embed" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
+      <a href="plastic asses.SLDASM" download>Download Model (.SLDASM)</a>
+    </div>
+    <div class="model">
+      <h3>Industrial Mist Cannon</h3>
+      <p>A high-capacity mist cannon engineered for dust suppression in industrial environments.</p>
+      <iframe src="https://sketchfab.com/models/placeholder/embed" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
+      <a href="mist.SLDASM" download>Download Model (.SLDASM)</a>
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="Nikhil.pdf" download>Download Resume (PDF)</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: golinikhil@gmail.com</p>
+    <p>Phone: +91 7013681263</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/nikhil-goli-5835b82a0" target="_blank">nikhil-goli-5835b82a0</a></p>
+  </section>
+</body>
+</html>
